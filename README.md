@@ -1,4 +1,11 @@
 # Dashboard de control: llamados a Línea 144
+El presente dashboard es mi Proyecto Final individual del curso de Data Analytics de Coderhouse (abril-agosto 2023) con el que me ubiqué en el top 10% de la clase. El proyecto consiste en un dashboard de control elaborado en PowerBI y la documentación correspondiente en formato PDF. La temática general elegida es la violencia de género en Argentina, y en particular las intervenciones realizadas a partir de comunicaciones recibidas por la Línea 144 de atención a personas en situación de violencia durante 2022 y el primer trimestre de 2023. Debajo encontrarán las solapas del proyecto en PowerBI, y una breve explicación de cómo explorar el repositorio y los archivos que lo componen.
+No duden en contactarme por cualquier pregunta, sugerencia o recomendación de mejora relacionada con el proyecto.
+
+¡Un gran saludo!
+
+Malena
+
 ## 1 - Portada
 ![00 Portada](https://github.com/dosgardenias/powerbi-violencia-de-genero/assets/168004506/d7f0753e-c24f-46aa-a389-13cf26927b8e)
 ## 2 - Glosario
